@@ -1,0 +1,27 @@
+
+h1 {
+  text-align: center;
+  font-style:italic ;
+  color: blue;
+  font-size:36px
+}
+
+h2{
+  font-style:italic ;
+  color:red;
+  font-size:28px
+}
+
+div,p{
+  font-size: 1.1em;
+  line-height: 1.30em;
+  font-style: oblique ;
+  color: brown;
+}
+
+*{background-color: lightblue}
+
+.button{
+  background-color:	#008080;
+  color:white;
+}
